@@ -104,42 +104,7 @@ This project follows a simple CI/CD style deployment approach:
 
 ---
 
-## 🐍 Contribution Snake Animation
 
-Add this file inside your repo:
-
-📁 `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: AniketThings
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-      - uses: actions/upload-artifact@v3
-        with:
-          name: snake
-          path: dist/github-contribution-grid-snake.svg
-```
-
-Then add this below in README:
-
-```
-![Snake animation](https://github.com/AniketThings/AniketThings/blob/output/github-contribution-grid-snake.svg)
-```
-
----
 
 ## 🎯 DevOps Skill Highlights
 
