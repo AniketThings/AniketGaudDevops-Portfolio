@@ -2,6 +2,8 @@
 
 # <div align="center">🚀 Aniket Gaud | DevOps Engineer</div>
 
+![Snake animation](https://github.com/AniketThings/AniketThings/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=28\&duration=3000\&pause=1000\&color=00C7B7\&center=true\&vCenter=true\&width=900\&lines=DevOps+Engineer;Cloud+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+Specialist;Linux+%7C+AWS+%7C+Infrastructure+as+Code)](https://git.io/typing-svg)
@@ -160,4 +162,4 @@ automation
 
 
 
-Tell me what’s next 🚀
+![Snake animation](https://github.com/AniketThings/AniketThings/blob/output/github-contribution-grid-snake.svg)
