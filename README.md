@@ -1,19 +1,4 @@
-Alright Aniket 😎🔥
-Now we’re making your repo **ULTRA PRO DevOps Level**.
 
-Below is your **Premium DevOps GitHub README** with:
-
-✅ Animated typing header
-✅ Premium badges
-✅ GitHub stats cards
-✅ Streak stats
-✅ DevOps tech icons
-✅ Contribution snake animation
-✅ Clean modern layout
-
-Just copy-paste this completely into your `README.md`.
-
----
 
 # <div align="center">🚀 Aniket Gaud | DevOps Engineer</div>
 
