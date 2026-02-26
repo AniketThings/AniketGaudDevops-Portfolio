@@ -1,72 +1,78 @@
-Perfect Aniket 🔥
-Here is your **final, ready-to-copy README.md** customized with:
+Alright Aniket 😎🔥
+Now we’re making your repo **ULTRA PRO DevOps Level**.
 
-* ✅ Repo: **AniketGaudDevops-Portfolio**
-* ✅ Username: **AniketThings**
-* ✅ Modern DevOps theme
-* ✅ Dynamic GitHub badges
-* ✅ Clean professional layout
+Below is your **Premium DevOps GitHub README** with:
 
-You can directly copy-paste this into your `README.md`.
+✅ Animated typing header
+✅ Premium badges
+✅ GitHub stats cards
+✅ Streak stats
+✅ DevOps tech icons
+✅ Contribution snake animation
+✅ Clean modern layout
+
+Just copy-paste this completely into your `README.md`.
 
 ---
 
-# 🚀 Aniket Gaud – DevOps Portfolio
+# <div align="center">🚀 Aniket Gaud | DevOps Engineer</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=28\&duration=3000\&pause=1000\&color=00C7B7\&center=true\&vCenter=true\&width=900\&lines=DevOps+Engineer;Cloud+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+Specialist;Linux+%7C+AWS+%7C+Infrastructure+as+Code)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🌐 Live Portfolio
 
 <p align="center">
   <a href="https://aniketgauddevopsportfolio.netlify.app">
-    <img src="https://img.shields.io/badge/🌐 Live_Portfolio-Visit_Now-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌍 Live_Portfolio-Visit_Now-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/github/repo-size/AniketThings/AniketGaudDevops-Portfolio?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/AniketThings/AniketGaudDevops-Portfolio?style=for-the-badge" />
-  <img src="https://img.shields.io/github/languages/top/AniketThings/AniketGaudDevops-Portfolio?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/AniketThings/AniketGaudDevops-Portfolio?style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About The Project
+## 📊 Repository Insights
 
-This repository contains my **personal DevOps portfolio website**, built to showcase my:
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/AniketThings/AniketGaudDevops-Portfolio?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/AniketThings/AniketGaudDevops-Portfolio?style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/AniketThings/AniketGaudDevops-Portfolio?style=for-the-badge" />
+</p>
 
-* Cloud expertise
-* DevOps projects
-* CI/CD knowledge
-* Containerization skills
-* Linux administration experience
+---
 
-The goal of this portfolio is to represent my practical understanding of modern DevOps workflows and infrastructure automation.
+## 🧠 About This Project
 
-🔗 **Live Website:**
+This repository contains my **DevOps Portfolio Website**, built to demonstrate:
+
+* Cloud Infrastructure Knowledge
+* CI/CD Pipeline Understanding
+* Containerization & Orchestration
+* Linux & System Administration
+* Deployment Automation
+
+🔗 **Live URL:**
 👉 [https://aniketgauddevopsportfolio.netlify.app](https://aniketgauddevopsportfolio.netlify.app)
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 
 ### 🌐 Frontend
 
-* HTML5
-* CSS3
-* JavaScript (ES6)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-### ⚙ DevOps & Tools
+### ☁ DevOps & Cloud
 
-* Git & GitHub
-* Netlify Deployment
-* CI/CD Concepts
-* Linux Fundamentals
-
----
-
-## ✨ Features
-
-✔ Responsive Design (Mobile + Desktop)
-✔ Modern Clean UI
-✔ DevOps Skills Showcase
-✔ Projects Section
-✔ Contact Integration
-✔ Optimized Deployment Workflow
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,jenkins,bash" />
+</p>
 
 ---
 
@@ -85,67 +91,107 @@ AniketGaudDevops-Portfolio/
 
 ---
 
-## 🚀 Deployment Process
+## 🚀 Deployment Workflow
 
-This project is deployed using **Netlify** with GitHub integration.
+This project follows a simple CI/CD style deployment approach:
 
-### Steps Followed:
-
-1. Created GitHub repository
-2. Pushed local code using Git
-3. Connected repository to Netlify
-4. Enabled automatic deployments on push
-5. Live URL generated
+1️⃣ Code pushed to GitHub
+2️⃣ Repository connected to Netlify
+3️⃣ Automatic build triggered
+4️⃣ Live deployment generated
 
 ---
 
-## 🧠 DevOps Representation
+## 📈 GitHub Stats
 
-This portfolio reflects my working knowledge in:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AniketThings&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketThings&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-* 🐳 Docker
-* ☸ Kubernetes
-* ☁ AWS (EC2, S3, IAM, VPC, CloudWatch)
-* 🔁 CI/CD (Jenkins / GitHub Actions)
-* 🖥 Linux & Shell Scripting
-* 📊 Monitoring Basics
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AniketThings&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+Add this file inside your repo:
+
+📁 `.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: AniketThings
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+      - uses: actions/upload-artifact@v3
+        with:
+          name: snake
+          path: dist/github-contribution-grid-snake.svg
+```
+
+Then add this below in README:
+
+```
+![Snake animation](https://github.com/AniketThings/AniketThings/blob/output/github-contribution-grid-snake.svg)
+```
+
+---
+
+## 🎯 DevOps Skill Highlights
+
+✔ Docker & Containerization
+✔ Kubernetes Basics
+✔ AWS (EC2, S3, IAM, VPC)
+✔ GitHub Actions
+✔ Jenkins Pipelines
+✔ Linux Administration
+✔ Shell Scripting
 
 ---
 
 ## 📌 Future Improvements
 
-* Add Dark Mode Toggle
-* Integrate Backend Contact API
-* Implement GitHub Actions CI/CD
-* Improve SEO
-* Add Performance Optimization
+* Dark/Light Theme Toggle
+* Backend API Integration
+* Infrastructure as Code Integration
+* Performance Optimization
+* SEO Enhancements
 
 ---
 
 ## 📬 Connect With Me
 
-**Aniket Gaud**
-
 🔗 GitHub: [https://github.com/AniketThings](https://github.com/AniketThings)
-🔗 Portfolio: [https://aniketgauddevopsportfolio.netlify.app](https://aniketgauddevopsportfolio.netlify.app)
+🌐 Portfolio: [https://aniketgauddevopsportfolio.netlify.app](https://aniketgauddevopsportfolio.netlify.app)
 
 ---
 
-## 📄 License
+# ⭐ If You Like This Project
 
-This project is licensed under the MIT License.
-
----
-
-# ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub!
+Give it a ⭐ and support the journey 🚀
 
 ---
 
 # 🔥 Recommended GitHub Topics
-
-Add these in your repo settings:
 
 ```
 devops
@@ -157,6 +203,11 @@ ci-cd
 cloud
 linux
 infrastructure
-web-portfolio
+automation
 ```
 
+---
+
+
+
+Tell me what’s next 🚀
